@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: rgb(189, 255, 127);
+}
+#heading{
+    background-color: rgb(127, 255, 202);
+}
+#average{
+    background-color: rgb(185, 226, 4);
+}
+#grade{
+    background-color: rgb(185, 226, 4);
+}
